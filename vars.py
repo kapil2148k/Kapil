@@ -4,9 +4,9 @@ from os import environ
 # API Configuration
 API_ID = int(os.environ.get("API_ID", "3140089"))
 API_HASH = os.environ.get("API_HASH", "ef67c500cfbd85b764535cf1c8c9917f")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7880511525:AAFCiMQfbpK-uYYmfg00bnRFqd-5NlavuGw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8366648712:AAGY4C_ISEyRVjQEwPL3hV7hlTsTwDxKXeE")
 
-CREDIT = os.environ.get("CREDIT", "⌯ FʀᴏɴᴛMᴀɴ | ×͜× |")
+CREDIT = os.environ.get("CREDIT", "⌯ PRUNUS💋 | ×͜× |")
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Prunusuploderbot:Prunusuploderbot@cluster0.r4qscrt.mongodb.net/?appName=Cluster0")  # Add your own atlas db
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
